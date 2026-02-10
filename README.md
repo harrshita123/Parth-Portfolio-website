@@ -25,10 +25,6 @@ This website represents the doctor's professional identity and medical services 
 - Smooth scrolling & micro-interactions
 - Accessibility-friendly layout
 
-## 👥 Team
-- **Ayush Patel** – Frontend Development  
-- **<Friend Name>** – UI Animations & Styling
-
 ## 📈 Status
 🟡 In Development  
 🔵 First freelance client project
